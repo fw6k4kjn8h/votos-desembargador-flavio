@@ -1,0 +1,9 @@
+# Dependências do Repositório de Jurisprudência
+# Desembargador Flávio Itabaiana de Oliveira Nicolau - TJ/RJ
+
+# Manipulação de PDFs
+PyPDF2>=3.0.0
+
+# Opcional: para melhor extração de texto de PDFs
+# pdfplumber>=0.9.0
+# pypdf>=3.0.0
